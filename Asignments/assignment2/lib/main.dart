@@ -91,7 +91,7 @@ class _CounterScreenState extends State<CounterScreen> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Image.asset('image/image.jpg'),
+           // Image.asset('image/image.jpg'),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
