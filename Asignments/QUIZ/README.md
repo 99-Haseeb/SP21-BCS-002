@@ -16,3 +16,6 @@ This is a complete functional quiz app that works on both Android and iOS device
 <!-- ![Preview](/gif.gif) -->
 
 ![App UI](/ui.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/126445861/232398303-d64e5e26-7d64-4218-b065-27291eb695e2.png)
+![Screenshot (48)](https://user-images.githubusercontent.com/126445861/232398313-44d703ee-5a8e-4faf-bebe-f1831dcba94f.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/126445861/232398319-5d58c969-5338-406a-9e0d-e8ad952986b9.png)
